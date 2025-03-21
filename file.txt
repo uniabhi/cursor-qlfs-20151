@@ -1,0 +1,16 @@
+ @Today_02015_QLFS_NBB_VERSION.ipynb  This is the code file we have created for using r-script in google Collab notebook with code and output for my dissertation project used qlfs 2015 january - march dataset so use this code file and this analysis for creating 5000 word count of solution for my dissertation report chapter named results and analysis for academic purpose also how to structured the chapter - results and analysis in 5000 word count i am providing you another dissertation report sample named
+
+
+
+
+Providing a sample dissertation report file in that provided almost 4000 word count of context for chapter  === 4. Results and Analysis section in that dissertation report used qlfs 201 jan-march dataset analyze this disertation report and overall structure to help in creating my another original dissertation report chapter = results and analysis section in 5000 word count 
+
+
+
+
+
+  This is the code file we have created for using r-script in google Collab notebook with code and output for my dissertation project used qlfs 2015 january - march dataset so use this code file and this analysis for creating 5000 word count of solution for my dissertation report chapter named results and analysis for academic purpose also how to structured the chapter - results and analysis in 5000 word count i have provided ampled results and analysis related sample reort above named with MM666 pdf file and now providing the notebok code with outputs of my project for results and analysis solution  also provide the content in sectin and sub-secton wise with their name
+
+
+
+please provide sub-sections and sections from your understanding not solely copy from above provide sample file sprovide structured sub-section and sections with their name and unique one and provide analysis filled with values in table format wherever posible and provide after each analysis logical detailed analysis explanation and logic also and provide very detailed 7000 word count of results and analysis and use your understanding and this is my results and analysis code file notebook  pdf based  file format filled with codes input and output with values using for the analysis for my project use this for generate siolution. 
