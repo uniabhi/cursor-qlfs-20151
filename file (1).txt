@@ -1,0 +1,21 @@
+There is a mistake happened in my provided chapter = 4 results, analysis and findings this is original outcome variable or target variable outcome variable named (STAT3R) employment status which is our original variable selected wrong outcome variable (ILODEFR) named economic inactivity as outcome or target variable which is wrong because outcome variable named (STAT3R) employment status is original variable but in analysis wrong outcome variable provided now what i am doing is i am providing you the code file in that you can find the all code - outputs and analysis refer that and re-write me the complete chapter = 4 analysis from start till end also provide chapter = 4 analysis their detailed logical interpretations  but consider the outcome variable named (STAT3R) employment status because this is right variable. 
+
+also include this hypothesis in chapter =4 named results, analysis and findings  these are following hypothesis ==== 
+The analysis is guided by the following hypotheses, which were formulated based on existing literature and theoretical frameworks:
+
+**H1:** Higher educational qualifications are positively associated with employment rates and occupational status.
+
+**H2:** Significant regional disparities exist in employment rates and patterns across the UK.
+
+**H3:** Higher socio-economic classifications correlate with better employment outcomes.
+
+**H4:** There are significant gender disparities in employment rates, occupational distribution, and working patterns (full-time/part-time).
+
+**H5:** Age significantly influences employment patterns and labour market participation.
+
+**H6:** Multiple demographic factors interact to influence employment outcomes, with significant interaction effects between education, gender, age, and region.
+Hypothesis 6: Hypothesis 6: Educational qualifications, region, and socio-economic classification significantly 
+influence the type of employment status. 
+Hypothesis 8: There are significant differences in total hours worked across different educational qualification levels, regions, and socio-economic classifications.  == please provide me only best suitable and most aligned analysis and interpretations or detailed explanation of analysis in table format wherever possible and complete chapter = 4  == 4500 word count context 
+
+
